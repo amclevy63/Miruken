@@ -6,7 +6,7 @@ namespace Miruken.Callback
     {
         public Composition(object callback)
         {
-            Callback = callback;
+            Callback = callback ;
         }
 
         protected Composition()
